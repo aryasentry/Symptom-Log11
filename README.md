@@ -56,8 +56,8 @@ A modern, intuitive web application for tracking daily symptoms, mood, and healt
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/symptom-log.git
-   cd symptom-log
+   git clone https://github.com/aryasentry/Symptom-Log11.git
+   cd Symptom-Log11
    ```
 
 2. **Install dependencies**
@@ -213,7 +213,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/your-username/symptom-log/issues) page
+1. Check the [Issues](https://github.com/aryasentry/Symptom-Log11/issues) page
 2. Create a new issue with detailed information
 3. Include steps to reproduce any bugs
 
